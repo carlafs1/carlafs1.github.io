@@ -1,37 +1,206 @@
-## Welcome to GitHub Pages
+ 
 
-You can use the [editor on GitHub](https://github.com/carlafs1/carlafs1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### <u>**DADOS PESSOAIS**</u> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Nome: CARLA DE FRANÇA SAMPAIO** 
 
-### Markdown
+**![image](https://user-images.githubusercontent.com/51466310/169172831-52036be0-9fef-407a-9d1c-fe5bd0c6b610.png):** [carla.fs@uol.com.br](mailto:carla.fs@uol.com.br) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**![image](https://user-images.githubusercontent.com/51466310/169172699-ac264ed0-1c71-49c6-91ab-b5e935b5ce7b.png)
+:** [linkedin.com/in/carla-fs](https://www.linkedin.com/in/carla-fs)
 
-```markdown
-Syntax highlighted code block
+ 
 
-# Header 1
-## Header 2
-### Header 3
+### <u>**PERFIL**</u>
 
-- Bulleted
-- List
+Trabalho há 25 anos com análise e desenvolvimento de sistemas de grande porte, sobretudo no setor bancário. Atuei como estagiária, analista, consultora e com modelagem de dados. Neste período fui responsável por importantes projetos, além de atividades de pesquisa e solução de problemas.
 
-1. Numbered
-2. List
+Em 2019, me interessei por Ciências de Dados e decidi aprender mais sobre o assunto. Percebi que a minha vivência com dados e resolução de problemas me davam uma grande vantagem no sentido de avaliar o presente e extrair tendências para orientar melhores tomada de decisão. 
 
-**Bold** and _Italic_ and `Code` text
+Para me dedicar integralmente aos estudos da Ciência de Dados, tomei a difícil decisão de parar de trabalhar e agora, com a formação concluída, preciso de uma oportunidade para colocar o conhecimento em prática.
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### <u>**OBJETIVO**</u> 
 
-### Jekyll Themes
+Atuar na área de Data Science coletando, armazenando e disponibilizando dados para uma análise confiável visando identificar, através de modelos de Machine Learning, insights e tendências que possam auxiliar a tomada de decisão, além de mitigar inconsistências que possam afetar o negócio. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlafs1/carlafs1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
+### <u>**EXPERIÊNCIA PROFISSIONAL**</u> 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+
+·   **Banco do Brasil (NOV/19 a FEV/21) e (MAI/2021 a AGO/2021)**
+
+**Consultoria:** Coopersystem 
+
+**Cargo:** Consultor Especialista
+
+ o Análise e desenvolvimento do novo cálculo de seguro para operações de CDC - Crédito Direto ao Consumidor;  
+
+o Treinamento do novo profissional que assumiu o projeto;
+
+o COBOL / DB2. 
+
+ 
+
+·   **Banco do Brasil (JAN/17 a DEZ/17)** 
+
+**Consultoria:** Coopersystem 
+
+**Cargo:** Analista de Sistemas 
+
+o Projeto de repactuação de contratos de seguro vinculados a operação CDC; 
+
+   o COBOL / DB2. 
+
+ 
+
+·   **Banco do Brasil (JUL/06 até DEZ/16)**
+
+**Consultoria:** BSI Informática 
+
+**Cargo:** Consultor Especialista
+
+o Projetos e manutenção do Sistema CDC; 
+
+o Responsável pela modelagem de dados do sistema CDC (2008 - 2011);
+
+o Desenvolvimento do processo de recebimento de operações através de boleto bancário; 
+
+o Incorporação do Sistema CVA – antigo sistema de financiamento de veículos; 
+
+o Desenvolvimento do cálculo de operações de CDC com prestações e prazos flexíveis; 
+
+o Análise, desenvolvimento e implantação do projeto de cálculo de IOF complementar para operações de CDC; 
+
+o Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;  
+
+o Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;
+
+   o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
+
+ 
+
+·   **Banco do Brasil (OUT/03 a JUL/06)** 
+
+**Consultoria:** Coopersystem 
+
+**Cargo:** Analista de Sistemas 
+
+o Planejamento, desenho funcional e desenvolvimento do cartão Pré-Pago VISA 
+
+  Empresarial;  
+
+ o Responsável pela análise e desenvolvimento dos módulos financeiro, autorização de  
+
+  operações, conciliação de operações autorizadas junto à VISA e contestação de    
+
+  operações fraudulentas ou divergentes;  
+
+ o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
+
+ 
+
+ 
+
+·   **BBV – Banco Bilbao Vizcaya (JUL/02 a OUT/03)** 
+
+**Consultoria:** DTS Latin América LTDA 
+
+**Cargo:** Analista de Sistemas 
+
+o Análise, desenvolvimento e implantação do Sistema Gerenciador de Propostas - projeto que centralizou a análise de operações de crédito de todos os produtos de ativos do BBV Brasil;
+
+o COBOL / DB2 / PLATAFORMA ALTAMIRA. 
+
+ 
+
+·   **BBV – Banco Bilbao Vizcaya (ABR/00 a JUL/02)** 
+
+**Consultoria:** 4COM Soluções em Tecnologia 
+
+**Cargo:** Analista de Sistemas 
+
+o Manutenção do Sistema de Vencidos. O sistema de gestão de operações vencidas do BBV Brasil permitiu que a empresa obtivesse a qualificação de instituição financeira com menor índice de inadimplência no mercado nacional;  
+
+o Análise, desenvolvimento e manutenção do Sistema de Telecobrança;  
+
+o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA. 
+
+ 
+
+·   **COELBA – Companhia Elétrica da Bahia (JUN/98 a ABR/00)** 
+
+**Consultoria:** Hype Informática
+
+**Cargo:** Analista de Sistemas 
+
+o Validação, implantação e manutenção do Sistema SIC (Sistema Comercial) – englobava faturamento, arrecadação, consumo e informações gerenciais; 
+
+o Análise e desenvolvimento das interfaces de carga para os módulos FI (Financeiro) e PM (Materiais) objetivando conversão do sistema legado;  
+
+   o COBOL I / IDMS e COBOL I/DB2 para sistema SAP; 
+
+o Análise, desenvolvimento e manutenção do módulo OS – responsável pelo cálculo do dimensionamento da rede elétrica para obras de médio e grande porte e dos custos e receitas referentes ao projeto;
+
+o ABAP - SAP; 
+
+o Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
+
+ 
+
+ 
+
+·   **BANEB - Banco do Estado da Bahia (MAI/97 a JUN/98)** 
+
+**Cargo:** Estagiária 
+
+ o Manutenção do Sistema de Cartão de Débito; 
+
+   o Manutenção do Sistema de Pagamento dos Servidores do Estado da Bahia;
+
+   o COBOL II, COBOL CICS, DB2 e VSAM, NATURAL).
+
+ 
+
+### <u>**FORMAÇÃO**</u> 
+
+ 
+
+·   **DSA Academy** 
+
+Curso: Formação Cientista de Dados (cursando) 
+
+Início: DEZ/21. 
+
+ 
+
+·   **FGV – Fundação Getúlio Vargas** 
+
+Curso: MBA Executivo em Business Analytics e Big Data. 
+
+Início: SET/19. Conclusão: DEZ/21 
+
+ 
+
+·   **Unip – Universidade Paulista** 
+
+Graduação: Análise e Desenvolvimento de Sistemas 
+
+Início: AGO/17. Conclusão: JUL/19 
+
+ 
+
+### <u>**CERTIFICAÇÕES**</u>
+
+ 
+
+·   **Modelagem de dados – SQL (UNIFACS)** 
+
+ 
+
+·   **Basis NT/Oracle Academy R/3 System (SAP)**
+
+ 
