@@ -1,6 +1,6 @@
  
 
-### <u>**DADOS PESSOAIS**</u> 
+### DADOS PESSOAIS 
 
 **Nome: CARLA DE FRANÇA SAMPAIO** 
 
@@ -9,9 +9,9 @@
 **![image](https://user-images.githubusercontent.com/51466310/169172699-ac264ed0-1c71-49c6-91ab-b5e935b5ce7b.png)
 :** [linkedin.com/in/carla-fs](https://www.linkedin.com/in/carla-fs)
 
- 
+&nbsp;
 
-### <u>**PERFIL**</u>
+### PERFIL 
 
 Trabalho há 25 anos com análise e desenvolvimento de sistemas de grande porte, sobretudo no setor bancário. Atuei como estagiária, analista, consultora e com modelagem de dados. Neste período fui responsável por importantes projetos, além de atividades de pesquisa e solução de problemas.
 
@@ -20,18 +20,17 @@ Em 2019, me interessei por Ciências de Dados e decidi aprender mais sobre o ass
 Para me dedicar integralmente aos estudos da Ciência de Dados, tomei a difícil decisão de parar de trabalhar e agora, com a formação concluída, preciso de uma oportunidade para colocar o conhecimento em prática.
 
  
+&nbsp;
 
-### <u>**OBJETIVO**</u> 
+### OBJETIVO 
 
 Atuar na área de Data Science coletando, armazenando e disponibilizando dados para uma análise confiável visando identificar, através de modelos de Machine Learning, insights e tendências que possam auxiliar a tomada de decisão, além de mitigar inconsistências que possam afetar o negócio. 
 
- 
+&nbsp;
 
-### <u>**EXPERIÊNCIA PROFISSIONAL**</u> 
+### EXPERIÊNCIA PROFISSIONAL
 
- 
-
-·   **Banco do Brasil (NOV/19 a FEV/21) e (MAI/2021 a AGO/2021)**
+- **Banco do Brasil (NOV/19 a FEV/21) e (MAI/2021 a AGO/2021)**
 
 **Consultoria:** Coopersystem 
 
@@ -43,7 +42,7 @@ o Treinamento do novo profissional que assumiu o projeto;
 
 o COBOL / DB2. 
 
- 
+ &nbsp;
 
 ·   **Banco do Brasil (JAN/17 a DEZ/17)** 
 
@@ -55,7 +54,7 @@ o Projeto de repactuação de contratos de seguro vinculados a operação CDC;
 
    o COBOL / DB2. 
 
- 
+ &nbsp;
 
 ·   **Banco do Brasil (JUL/06 até DEZ/16)**
 
@@ -81,7 +80,7 @@ o Análise e desenvolvimento do processo de recebimento antecipado e linear de o
 
    o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
 
- 
+ &nbsp;
 
 ·   **Banco do Brasil (OUT/03 a JUL/06)** 
 
@@ -101,11 +100,9 @@ o Planejamento, desenho funcional e desenvolvimento do cartão Pré-Pago VISA
 
  o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
 
- 
+ &nbsp;
 
- 
-
-·   **BBV – Banco Bilbao Vizcaya (JUL/02 a OUT/03)** 
+ ·   **BBV – Banco Bilbao Vizcaya (JUL/02 a OUT/03)** 
 
 **Consultoria:** DTS Latin América LTDA 
 
@@ -115,7 +112,7 @@ o Análise, desenvolvimento e implantação do Sistema Gerenciador de Propostas 
 
 o COBOL / DB2 / PLATAFORMA ALTAMIRA. 
 
- 
+&nbsp; 
 
 ·   **BBV – Banco Bilbao Vizcaya (ABR/00 a JUL/02)** 
 
@@ -129,78 +126,53 @@ o Análise, desenvolvimento e manutenção do Sistema de Telecobrança;
 
 o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA. 
 
- 
+ &nbsp;
 
-·   **COELBA – Companhia Elétrica da Bahia (JUN/98 a ABR/00)** 
+- **COELBA – Companhia Elétrica da Bahia (JUN/98 a ABR/00)** 
+  - **Consultoria:** Hype Informática
+  - **Cargo:** Analista de Sistemas 
+  - **Atividades**: 
+    - Validação, implantação e manutenção do Sistema SIC (Sistema Comercial) – englobava faturamento, arrecadação, consumo e informações gerenciais; 
+    - Análise e desenvolvimento das interfaces de carga para os módulos FI (Financeiro) e PM (Materiais) objetivando conversão do sistema legado;  
+   **(COBOL I / IDMS e COBOL I/DB2 para sistema SAP)** ; 
+     - Análise, desenvolvimento e manutenção do módulo OS – responsável pelo cálculo do dimensionamento da rede elétrica para obras de médio e grande porte e dos custos  e receitas referentes ao projeto;
+   **(ABAP - SAP)**; 
 
-**Consultoria:** Hype Informática
+    - Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
 
-**Cargo:** Analista de Sistemas 
+ &nbsp;
 
-o Validação, implantação e manutenção do Sistema SIC (Sistema Comercial) – englobava faturamento, arrecadação, consumo e informações gerenciais; 
+- **BANEB - Banco do Estado da Bahia (MAI/97 a JUN/98)** 
+  - **Cargo:** Estagiária 
+    - Manutenção do Sistema de Cartão de Débito; 
+    - Manutenção do Sistema de Pagamento dos Servidores do Estado da Bahia;
+    - COBOL II, COBOL CICS, DB2 e VSAM, NATURAL).
 
-o Análise e desenvolvimento das interfaces de carga para os módulos FI (Financeiro) e PM (Materiais) objetivando conversão do sistema legado;  
+ &nbsp;
+ &nbsp;
 
-   o COBOL I / IDMS e COBOL I/DB2 para sistema SAP; 
-
-o Análise, desenvolvimento e manutenção do módulo OS – responsável pelo cálculo do dimensionamento da rede elétrica para obras de médio e grande porte e dos custos e receitas referentes ao projeto;
-
-o ABAP - SAP; 
-
-o Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
-
- 
-
- 
-
-·   **BANEB - Banco do Estado da Bahia (MAI/97 a JUN/98)** 
-
-**Cargo:** Estagiária 
-
- o Manutenção do Sistema de Cartão de Débito; 
-
-   o Manutenção do Sistema de Pagamento dos Servidores do Estado da Bahia;
-
-   o COBOL II, COBOL CICS, DB2 e VSAM, NATURAL).
+### FORMAÇÃO
 
  
 
-### <u>**FORMAÇÃO**</u> 
+- **DSA Academy** 
+  - **Curso**: Formação Cientista de Dados (cursando) 
+  - **Início**: DEZ/21. 
 
- 
+- **FGV – Fundação Getúlio Vargas** 
+  - **Curso** : MBA Executivo em Business Analytics e Big Data. 
+  - **Início**: SET/19. Conclusão: DEZ/21 
 
-·   **DSA Academy** 
+- **Unip – Universidade Paulista** 
+  - **Graduação**: Análise e Desenvolvimento de Sistemas 
+  - **Início**: AGO/17. Conclusão: JUL/19 
 
-Curso: Formação Cientista de Dados (cursando) 
+ &nbsp;
+ &nbsp;
 
-Início: DEZ/21. 
+###  CERTIFICAÇÕES 
 
- 
-
-·   **FGV – Fundação Getúlio Vargas** 
-
-Curso: MBA Executivo em Business Analytics e Big Data. 
-
-Início: SET/19. Conclusão: DEZ/21 
-
- 
-
-·   **Unip – Universidade Paulista** 
-
-Graduação: Análise e Desenvolvimento de Sistemas 
-
-Início: AGO/17. Conclusão: JUL/19 
-
- 
-
-### <u>**CERTIFICAÇÕES**</u>
-
- 
-
-·   **Modelagem de dados – SQL (UNIFACS)** 
-
- 
-
-·   **Basis NT/Oracle Academy R/3 System (SAP)**
+- **Modelagem de dados – SQL (UNIFACS)** 
+- **Basis NT/Oracle Academy R/3 System (SAP)**
 
  
