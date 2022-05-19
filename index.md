@@ -126,7 +126,6 @@ o Análise, desenvolvimento e manutenção do Sistema de Telecobrança;
 
 o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA. 
 
- &nbsp;
 
 - **COELBA – Companhia Elétrica da Bahia (JUN/98 a ABR/00)** 
   - **Consultoria:** Hype Informática
@@ -140,7 +139,6 @@ o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA.
 
     - Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
 
- &nbsp;
 
 - **BANEB - Banco do Estado da Bahia (MAI/97 a JUN/98)** 
   - **Cargo:** Estagiária 
