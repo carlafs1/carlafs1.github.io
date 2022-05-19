@@ -1,6 +1,4 @@
- 
-
-### DADOS PESSOAIS 
+ ### DADOS PESSOAIS 
 
 **Nome: CARLA DE FRANÇA SAMPAIO** 
 
@@ -31,100 +29,61 @@ Atuar na área de Data Science coletando, armazenando e disponibilizando dados p
 ### EXPERIÊNCIA PROFISSIONAL
 
 - **Banco do Brasil (NOV/19 a FEV/21) e (MAI/2021 a AGO/2021)**
+  - **Consultoria:** Coopersystem 
+  - **Cargo:** Consultor Especialista
+  - **Atividades**:
+    - Análise e desenvolvimento do novo cálculo de seguro para operações de CDC - Crédito Direto ao Consumidor;  
+    - Treinamento do novo profissional que assumiu o projeto;
+      - COBOL / DB2. 
 
-**Consultoria:** Coopersystem 
 
-**Cargo:** Consultor Especialista
+- **Banco do Brasil (JAN/17 a DEZ/17)** 
+  - **Consultoria:** Coopersystem 
+  - **Cargo:** Analista de Sistemas 
+  - **Atividades**:
+    - Projeto de repactuação de contratos de seguro vinculados a operação CDC; 
+      - COBOL / DB2. 
 
- o Análise e desenvolvimento do novo cálculo de seguro para operações de CDC - Crédito Direto ao Consumidor;  
 
-o Treinamento do novo profissional que assumiu o projeto;
+- **Banco do Brasil (JUL/06 até DEZ/16)**
+  - **Consultoria:** BSI Informática 
+  - **Cargo:** Consultor Especialista
+  - **Atividades**:
+    - Projetos e manutenção do Sistema CDC; 
+    - Responsável pela modelagem de dados do sistema CDC (2008 - 2011);
+    - Desenvolvimento do processo de recebimento de operações através de boleto bancário; 
+    - Incorporação do Sistema CVA – antigo sistema de financiamento de veículos; 
+    - Desenvolvimento do cálculo de operações de CDC com prestações e prazos flexíveis; 
+    - Análise, desenvolvimento e implantação do projeto de cálculo de IOF complementar para operações de CDC; 
+    - Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;  
+    - Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;
+      - COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
 
-o COBOL / DB2. 
 
- &nbsp;
+- **Banco do Brasil (OUT/03 a JUL/06)** 
+  - **Consultoria:** Coopersystem 
+  - **Cargo:** Analista de Sistemas 
+  - **Atividades**:
+    - Planejamento, desenho funcional e desenvolvimento do cartão Pré-Pago VISA Empresarial;  
+    - Responsável pela análise e desenvolvimento dos módulos financeiro, autorização de operações, conciliação de operações autorizadas junto à VISA e contestação de  operações fraudulentas ou divergentes;  
+      - COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
 
-·   **Banco do Brasil (JAN/17 a DEZ/17)** 
 
-**Consultoria:** Coopersystem 
+- **BBV – Banco Bilbao Vizcaya (JUL/02 a OUT/03)** 
+  - **Consultoria:** DTS Latin América LTDA 
+  - **Cargo:** Analista de Sistemas 
+  - **Atividades**:
+    - Análise, desenvolvimento e implantação do Sistema Gerenciador de Propostas - projeto que centralizou a análise de operações de crédito de todos os produtos de ativos do BBV Brasil;
+      - **COBOL / DB2 / PLATAFORMA ALTAMIRA.** 
 
-**Cargo:** Analista de Sistemas 
 
-o Projeto de repactuação de contratos de seguro vinculados a operação CDC; 
-
-   o COBOL / DB2. 
-
- &nbsp;
-
-·   **Banco do Brasil (JUL/06 até DEZ/16)**
-
-**Consultoria:** BSI Informática 
-
-**Cargo:** Consultor Especialista
-
-o Projetos e manutenção do Sistema CDC; 
-
-o Responsável pela modelagem de dados do sistema CDC (2008 - 2011);
-
-o Desenvolvimento do processo de recebimento de operações através de boleto bancário; 
-
-o Incorporação do Sistema CVA – antigo sistema de financiamento de veículos; 
-
-o Desenvolvimento do cálculo de operações de CDC com prestações e prazos flexíveis; 
-
-o Análise, desenvolvimento e implantação do projeto de cálculo de IOF complementar para operações de CDC; 
-
-o Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;  
-
-o Análise e desenvolvimento do processo de recebimento antecipado e linear de operações de CDC – alteração da metodologia do cálculo para o recebimento das parcelas;
-
-   o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
-
- &nbsp;
-
-·   **Banco do Brasil (OUT/03 a JUL/06)** 
-
-**Consultoria:** Coopersystem 
-
-**Cargo:** Analista de Sistemas 
-
-o Planejamento, desenho funcional e desenvolvimento do cartão Pré-Pago VISA 
-
-  Empresarial;  
-
- o Responsável pela análise e desenvolvimento dos módulos financeiro, autorização de  
-
-  operações, conciliação de operações autorizadas junto à VISA e contestação de    
-
-  operações fraudulentas ou divergentes;  
-
- o COBOL I / COBOL II / COBOL CICS / GRI / DB2 / NATURAL. 
-
- &nbsp;
-
- ·   **BBV – Banco Bilbao Vizcaya (JUL/02 a OUT/03)** 
-
-**Consultoria:** DTS Latin América LTDA 
-
-**Cargo:** Analista de Sistemas 
-
-o Análise, desenvolvimento e implantação do Sistema Gerenciador de Propostas - projeto que centralizou a análise de operações de crédito de todos os produtos de ativos do BBV Brasil;
-
-o COBOL / DB2 / PLATAFORMA ALTAMIRA. 
-
-&nbsp; 
-
-·   **BBV – Banco Bilbao Vizcaya (ABR/00 a JUL/02)** 
-
-**Consultoria:** 4COM Soluções em Tecnologia 
-
-**Cargo:** Analista de Sistemas 
-
-o Manutenção do Sistema de Vencidos. O sistema de gestão de operações vencidas do BBV Brasil permitiu que a empresa obtivesse a qualificação de instituição financeira com menor índice de inadimplência no mercado nacional;  
-
-o Análise, desenvolvimento e manutenção do Sistema de Telecobrança;  
-
-o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA. 
+- **BBV – Banco Bilbao Vizcaya (ABR/00 a JUL/02)** 
+  - **Consultoria:** 4COM Soluções em Tecnologia 
+  - **Cargo:** Analista de Sistemas 
+  - **Atividades**: 
+    - Manutenção do Sistema de Vencidos. O sistema de gestão de operações vencidas do BBV Brasil permitiu que a empresa obtivesse a qualificação de instituição financeira com menor índice de inadimplência no mercado nacional;  
+    - Análise, desenvolvimento e manutenção do Sistema de Telecobrança;  
+      - **COBOL CICS / DB2 / PLATAFORMA ALTAMIRA.** 
 
 
 - **COELBA – Companhia Elétrica da Bahia (JUN/98 a ABR/00)** 
@@ -133,18 +92,17 @@ o COBOL CICS / DB2 / PLATAFORMA ALTAMIRA.
   - **Atividades**: 
     - Validação, implantação e manutenção do Sistema SIC (Sistema Comercial) – englobava faturamento, arrecadação, consumo e informações gerenciais; 
     - Análise e desenvolvimento das interfaces de carga para os módulos FI (Financeiro) e PM (Materiais) objetivando conversão do sistema legado;  
-   **(COBOL I / IDMS e COBOL I/DB2 para sistema SAP)** ; 
+      - **(COBOL I / IDMS e COBOL I/DB2 para sistema SAP)** ; 
      - Análise, desenvolvimento e manutenção do módulo OS – responsável pelo cálculo do dimensionamento da rede elétrica para obras de médio e grande porte e dos custos  e receitas referentes ao projeto;
-   **(ABAP - SAP)**; 
-
-    - Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
+       - **(ABAP - SAP)**; 
+     - Manutenção de programas dos módulos FI (Financeiro) e PM (Materiais). Relatórios, Batch Input e Abap Query. 
 
 
 - **BANEB - Banco do Estado da Bahia (MAI/97 a JUN/98)** 
   - **Cargo:** Estagiária 
     - Manutenção do Sistema de Cartão de Débito; 
     - Manutenção do Sistema de Pagamento dos Servidores do Estado da Bahia;
-    - COBOL II, COBOL CICS, DB2 e VSAM, NATURAL).
+      - **COBOL II, COBOL CICS, DB2 e VSAM, NATURAL).**
 
  &nbsp;
  &nbsp;
